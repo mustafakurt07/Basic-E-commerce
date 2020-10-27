@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment3">
+
+    <fragment
+        android:id="@+id/homeFragment3"
+        android:name="com.example.mobirollertest.view.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/insertFragment3"
+        android:name="com.example.mobirollertest.view.InsertFragment"
+        android:label="fragment_insert"
+        tools:layout="@layout/fragment_insert" />
+    <fragment
+        android:id="@+id/listFragment3"
+        android:name="com.example.mobirollertest.view.ListFragment"
+        android:label="fragment_list"
+        tools:layout="@layout/fragment_list" />
+</navigation>

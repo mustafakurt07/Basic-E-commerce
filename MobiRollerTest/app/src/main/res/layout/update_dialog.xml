@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:padding="5dp"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:text="Your ID"
+            android:textSize="20dp"
+            android:textColor="@android:color/black"
+            android:id="@+id/updateId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+        </TextView>
+
+        <Button
+            android:layout_marginTop="15dp"
+            android:text="Update Image"
+            android:id="@+id/updateImageButtonId"
+            android:background="@drawable/login_button"
+            android:textColor="@android:color/white"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content">
+
+        </Button>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:orientation="vertical"
+        android:padding="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/updateNameId"
+                android:inputType="text"
+                android:hint="Enter Product Name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            </EditText>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/updateKategoryId"
+                android:inputType="text"
+                android:hint="Enter Product Kategory"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            </EditText>
+
+        </com.google.android.material.textfield.TextInputLayout>
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/updatePriceId"
+                android:inputType="number"
+                android:hint="Enter Product Price"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            </EditText>
+
+        </com.google.android.material.textfield.TextInputLayout>
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/updateDateId"
+                android:inputType="date"
+                android:hint="Enter Product Date"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            </EditText>
+
+        </com.google.android.material.textfield.TextInputLayout>
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/updateDescId"
+                android:inputType="text"
+                android:hint="Enter Product Description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            </EditText>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+        <Button
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/updateInfoButtonId"
+            android:text="Update Information"
+            android:background="@drawable/login_button"
+            android:textColor="@android:color/white"
+            android:layout_width="180dp"
+            android:layout_height="wrap_content">
+
+        </Button>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
