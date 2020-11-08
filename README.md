@@ -25,7 +25,8 @@ Mimari olarak Mvvm design pattern kullanarak tasarlanmış bir uygulamadır. Bun
     implementation 'id.zelory:compressor:2.1.0'
     
     //image cropper
-   // api 'com.theartofdev.edmodo:android-image-cropper:2.8.+'
+    
+    // api 'com.theartofdev.edmodo:android-image-cropper:2.8.+'
    
     //implementation 'com.theartofdev.edmodo:android-image-cropper:2.8.+'
     
