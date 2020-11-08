@@ -5,7 +5,7 @@ Proje kısaca anlatmak gerekirse mail ile kayıt olduktan sonra ürünlerinizi  
 Sıralama işlemi olarak kendi algoritmamı oluşturup eklemeyi düşünüyorum. Arayüz biraz daha işlevsel hale getirilebilir.
 ## Kullanılanlar
 Mimari olarak Mvvm design pattern kullanarak tasarlanmış bir uygulamadır. Bunun yanında Firebase auth, storage, firestore , navigationview-fragment kullanılarak yazılmış bir uygulamadır.
-## Gerekli olanlar
+## Kütüphaneler
     
     //circle image View
     implementation 'de.hdodenhof:circleimageview:3.1.0'
@@ -33,3 +33,6 @@ Mimari olarak Mvvm design pattern kullanarak tasarlanmış bir uygulamadır. Bun
     
     //Toast
     implementation 'com.sdsmdg.tastytoast:tastytoast:0.1.1'
+    
+ ## Demo
+![desc](https://user-images.githubusercontent.com/27029629/98483369-cdaa9480-2218-11eb-9d4b-8d995b6f6ae1.gif)
