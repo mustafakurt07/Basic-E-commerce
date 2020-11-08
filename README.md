@@ -35,4 +35,4 @@ Mimari olarak Mvvm design pattern kullanarak tasarlanmış bir uygulamadır. Bun
     implementation 'com.sdsmdg.tastytoast:tastytoast:0.1.1'
     
  ## Demo
-![desc](https://user-images.githubusercontent.com/27029629/98483369-cdaa9480-2218-11eb-9d4b-8d995b6f6ae1.gif)
+![descs](https://user-images.githubusercontent.com/27029629/98483430-3eea4780-2219-11eb-84f0-c8b42e325367.gif)
