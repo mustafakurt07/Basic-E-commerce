@@ -29,5 +29,6 @@ Mimari olarak Mvvm design pattern kullanarak tasarlanmış bir uygulamadır. Bun
    
     //implementation 'com.theartofdev.edmodo:android-image-cropper:2.8.+'
     
+    
     //Toast
    implementation 'com.sdsmdg.tastytoast:tastytoast:0.1.1'
