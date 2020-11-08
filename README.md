@@ -1,6 +1,6 @@
 # E-COMMERCE
 ## Özet
-Proje kısaca anlatmak gerekirse mail ile kayıt olduktan sonra ürünlerinizi   ekleme, silme, güncelleme gibi işlemlerinizi yapabilceğiniz basit bir e ticaret çalışmasıdır. Amaç firebase yapısını kulllanmaktı.
+Projeyi kısaca anlatmam gerekirse mail ile kayıt olunduktan sonra ürünlerinizi   ekleme, silme, güncelleme gibi işlemlerinizi yapabileceğiniz basit bir e ticaret çalışmasıdır. Uygulamadaki amaç firebase ile Mvvm design pattern  yapısını beraber kullanmaktı.
 ## Yapılması planlananlar
 Sıralama işlemi olarak kendi algoritmamı oluşturup eklemeyi düşünüyorum. Arayüz biraz daha işlevsel hale getirilebilir.
 ## Kullanılanlar
