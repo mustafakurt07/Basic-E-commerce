@@ -10,7 +10,7 @@ Mimari olarak Mvvm design pattern kullanarak tasarlanmış bir uygulamadır. Bun
     //circle image View
     implementation 'de.hdodenhof:circleimageview:3.1.0'
     
-    //gilde
+    //glide
     implementation 'com.github.bumptech.glide:glide:4.11.0'
     annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
     
