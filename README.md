@@ -4,7 +4,7 @@ Proje kısaca anlatmak gerekirse mail ile kayıt olduktan sonra ürünlerinizi  
 ## Yapılması planlananlar
 Sıralama işlemi olarak kendi algoritmamı oluşturup eklemeyi düşünüyorum. Arayüz biraz daha işlevsel hale getirilebilir.
 ## Kullanılanlar
-Mimari olarak Mvvm design pattern kullanarak tasarlanmış bir uygulamadır. Bunun yanında Firebase auth, storage, firestore , navigationview-fragment kullanılarak yazılmış bir uygulamadır.
+Mimari olarak Mvvm design pattern kullanarak tasarlanmış bir uygulamadır. Bunun yanında Firebase auth, storage, firestore , navigationview-fragment ve dialogs kullanılarak yazılmış bir uygulamadır.
 ## Kütüphaneler
     
     //circle image View
