@@ -32,4 +32,4 @@ Mimari olarak Mvvm design pattern kullanarak tasarlanmış bir uygulamadır. Bun
     
     
     //Toast
-   implementation 'com.sdsmdg.tastytoast:tastytoast:0.1.1'
+    implementation 'com.sdsmdg.tastytoast:tastytoast:0.1.1'
